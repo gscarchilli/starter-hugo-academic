@@ -1,7 +1,7 @@
 ---
 title: Giovanna Scarchilli
 role: "PostDoc in Politcal Economics "
-avatar_filename: null
+avatar_filename: photo_gs.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
