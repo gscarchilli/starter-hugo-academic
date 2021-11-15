@@ -1,7 +1,7 @@
 ---
 title: Giovanna Scarchilli
 role: "PostDoc in Politcal Economics "
-avatar_filename: photo_gs.jpeg
+avatar_filename: null
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -38,7 +38,7 @@ education:
     - course: BSc in Economics
       institution: Sapienza - University of Rome
       year: 2014
-email: ""
+email: giovanna.scarchilli@gmail.com
 superuser: true
 highlight_name: true
 ---
