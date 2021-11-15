@@ -23,7 +23,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: University of Trent
+  - name: University of Trento
     url: https://www.unitn.it/en
 education:
   courses:
