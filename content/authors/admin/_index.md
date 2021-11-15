@@ -11,10 +11,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#giovanna.scarchilli@prova.com
+    link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: .com/giovannascarchi
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -25,19 +25,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Trent
+    url: https://www.unitn.it/en
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Economics
+      institution: University of Siena
+      year: 2018
+    - course: Msc in Economics
+      institution: Sapienza - University of Rome
+      year: 2016
+    - course: BSc in Economics
+      institution: Sapienza - University of Rome
+      year: 2014
 email: ""
 superuser: true
 highlight_name: true
